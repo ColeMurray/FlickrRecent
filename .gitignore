@@ -25,3 +25,6 @@ proguard/
 
 # Log Files
 *.log
+
+#Config File
+app/src/main/java/com/murraycole/photogallery/Config.java
